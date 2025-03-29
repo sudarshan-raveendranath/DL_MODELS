@@ -1,0 +1,9 @@
+# Ignore folders
+image_resized/
+test1/
+train/
+
+# Ignore specific files
+lasindu.png
+test1.zip
+train.zip
